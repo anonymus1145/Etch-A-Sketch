@@ -1,0 +1,21 @@
+#grid {
+        display: grid;
+        border: solid black;
+        column-gap: 0px;
+    }
+
+.square {
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border:double black;
+    }
+
+ #btn { 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+  
+  
+  
